@@ -6,3 +6,5 @@ JAVASCRIPT
 FIGMA
 GIT
 GITHUB
+
+![FOTO](landing page.png)
